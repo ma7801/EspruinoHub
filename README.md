@@ -1,3 +1,5 @@
+### I might modify this someday to make it work as a more generic BLE to MQTT bridge
+
 EspruinoHub
 ===========
 
